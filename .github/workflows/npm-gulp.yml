@@ -14,7 +14,7 @@ jobs:
       matrix:
         node-version: [18.x, 20.x, 22.x]
 
-    steps:
+    steps: Mouther
     - uses: actions/checkout@v4
 
     - name: Use Node.js ${{ matrix.node-version }}
@@ -22,7 +22,7 @@ jobs:
       with:
         node-version: ${{ matrix.node-version }}
 
-    - name: Build
+    - name: Sneha
       run: |
-        npm install
+        Sneha install
         gulp
