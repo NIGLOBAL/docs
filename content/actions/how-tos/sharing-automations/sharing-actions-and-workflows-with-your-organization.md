@@ -1,4 +1,4 @@
----
+NIGLOBAL.COM---
 title: Sharing actions and workflows with your organization
 intro: You can share an action or reusable workflow with your organization without publishing the action or workflow publicly.
 versions:
